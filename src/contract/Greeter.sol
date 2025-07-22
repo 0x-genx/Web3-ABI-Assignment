@@ -12,4 +12,4 @@ contract Greeter {
    function getMessage() public view returns(string memory) {
         return text;
    }
-}
+} // they are the same in syntax as javascript.
